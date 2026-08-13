@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="285px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #bfbdbe;}
+.value {fill: #c41a4d;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">    ⢸⣦⡀⠀⠀⠀ ⠀⢀⡄</tspan>
+<tspan x="15" y="50">    ⢸⣏⠻⣶⣤⡶⢾⡿⠁ ⢠⣄⡀⢀⣴</tspan>
+<tspan x="15" y="70">   ⣀⣼⠷⠀⠀⠁⢀⣿⠃⠀⠀⢀⣿⣿⣿⣇</tspan>
+<tspan x="15" y="90">⠴⣾⣯⣅⣀⠀⠀⠀⠈⢻⣦⡀⠒⠻⠿⣿⡿⠿⠓⠂⠀⠀⢀⡇</tspan>
+<tspan x="15" y="110">    ⠉⢻⡇⣤⣾⣿⣷⣿⣿⣤⠀⠀⣿⠁⠀⠀⠀⢀⣴⣿⣿</tspan>
+<tspan x="15" y="130">     ⠸⣿⡿⠏⠀⢀⠀⠀⠿⣶⣤⣤⣤⣄⣀⣴⣿⡿⢻⣿⡆</tspan>
+<tspan x="15" y="150">      ⠟⠁⠀⢀⣼⠀⠀⠀⠹⣿⣟⠿⠿⠿⡿⠋⠀⠘⣿⣇</tspan>
+<tspan x="15" y="170">      ⢳⣶⣶⣿⣿⣇⣀⠀⠀⠙⣿⣆⠀⠀⠀⠀⠀⠀⠛⠿⣿⣦⣤⣀</tspan>
+<tspan x="15" y="190">       ⣹⣿⣿⣿⣿⠿⠋⠁⠀⣹⣿⠳⠀⠀⠀⠀⠀⠀⢀⣠⣽⣿⡿⠟⠃</tspan>
+<tspan x="15" y="210">     ⢰⠿⠛⠻⢿⡇⠀⠀⠀⣰⣿⠏⠀⠀⢀⠀⠀⠀⣾⣿⠟⠋⠁</tspan>
+<tspan x="15" y="230">          ⠋⠀⠀⣰⣿⣿⣾⣿⠿⢿⣷⣀⢀⣿⡇⠁</tspan>
+<tspan x="15" y="250">              ⠋⠉⠁⠀⠀⠀⠀⠙⢿⣿⣿⠇</tspan>
+<tspan x="15" y="270">                         ⠙⢿</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">nonstopTraveler</tspan> —————————————————————————————————————————————
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Danilo Rosa</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc" id="age_data_dots"> .......... </tspan><tspan class="value" id="age_data">Undergraduate in Software Engineering</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Unicesumar, Maringá</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Occupation</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Operations Administrative Analyst</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Wemx Engineering</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc">..</tspan><tspan class="value">Java, JavaScript, HTML, CSS, SQL, C</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Technologies</tspan>:<tspan class="cc">...</tspan><tspan class="value">Spring Boot, Vue, Bootstrap, MySQL, H2, Git</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Spoken</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Portuguese, English</tspan>
+  
+<tspan x="390" y="220">Contact</tspan> —————————————————————————————————————————————————————
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">danilorosaprbf@gmail.com</tspan>
+<tspan x="390" y="260" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">www.linkedin.com/in/DaniloRosa1909</tspan>
+</text>
+</svg>
