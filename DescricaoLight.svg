@@ -18,7 +18,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
 ⠀⠀⠀
-<tspan x="160" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<tspan x="140" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="160" y="290">  ⢠⣿⣿⢽⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="160" y="310">  ⣴⣧⠙⣺⢇</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="50" y="330">⠤⡤⢤⣤⠤⡤⣤⣤⢤⣼⣿⠇⠀⠱⣸⣦⡤⡤⣤⢤⢤⡤⡤⡤⣤⢤⢤⢤⣤⣤⣤⣤⢤⢤⡤⣤⡤⢤⣤⣤⣤⣤⢤⢤⡤⣤⡤⢤⢤⣤⣤⣤⣤⢤⢤⡤⣤⡤⢤⢤⣤⣤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -30,10 +30,10 @@ text, tspan {white-space: pre;}
 <tspan x="100" y="450">⢀⣿⢾⠿⠋⠀⠀⠀⠀   ⠀⠙⠦⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="100" y="470">⡾⠃⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠈⠂</tspan>⠀⠀
   
-<tspan x="360" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<tspan x="340" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="360" y="290">  ⢠⣿⣿⢽⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="360" y="310">  ⣴⣧⠙⣺⢇</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<tspan x="250" y="330">                    ⣤⢤⣼⣿⠇⠀⠱⣸⣦⡤⡤⠄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<tspan x="340" y="330">⣤⢤⣼⣿⠇⠀⠱⣸⣦⡤⡤⠄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="280" y="350">⠐⢼⡓⡵⣛⠚⠚⠒⠛⠀⠀⠀⠛⠚⠛⠙⠉⠉⠉⠉⠉⠉⠁⠉⠉⠈</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="300" y="370">⠈⠃⢙⠳⢦⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="330" y="390">⢡⣿⡏</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -42,48 +42,58 @@ text, tspan {white-space: pre;}
 <tspan x="300" y="450">⢀⣿⢾⠿⠋⠀⠀⠀⠀   ⠀⠙⠦⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="300" y="470">⡾⠃⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠈⠂</tspan>⠀⠀
   
-<tspan x="560" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<tspan x="540" y="270">      ⣾⡆</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="560" y="290">  ⢠⣿⣿⢽⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="560" y="310">  ⣴⣧⠙⣺⢇</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<tspan x="450" y="330">                      ⢤⣼⣿⠇⠀⠱⣸⣦⡤⡤⠄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+<tspan x="560" y="330">⢤⣼⣿⠇⠀⠱⣸⣦⡤⡤⠄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="480" y="350">⠐⢼⡓⡵⣛⠚⠚⠒⠛⠀⠀⠀⠛⠚⠛⠙⠉⠉⠉⠉⠉⠉⠁⠉⠉⠈</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="500" y="370">⠈⠃⢙⠳⢦⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="530" y="390">⢡⣿⡏</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="530" y="410">⢞⣹⠁⢀⣤⠶⣄</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="520" y="430">⣸⣎⢆⣶⢿⠅⠐⠸⡳⣀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <tspan x="500" y="450">⢀⣿⢾⠿⠋⠀⠀⠀⠀   ⠀⠙⠦⡀</tspan>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<tspan x="500" y="470">⡾⠃⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠈⠂</tspan>⠀⠀⠀⠀⠀
+<tspan x="500" y="470">⡾⠃⠀⠀⠀⠀⠀⠀⠀    ⠀⠀⠀⠈⠂</tspan>⠀⠀⠀⠀⠀⠀⠀
 
 </text>
   
 <text x="390" y="30" fill="#24292f">
-<tspan x="15" y="30">About Me</tspan> ———————————————————————————————————————————————————————
-  <tspan x="30" y="70" class="value">
-    I'm someone who has always been really interested in technology and how things work. I really enjoy learning new things, creating
-  </tspan>
-  <tspan x="30" y="90" class="value">
-    projects and experimenting with different technologies. 
-  </tspan>
+<tspan x="15" y="30">About Me</tspan> ————————————————————————————————————————————————————————————————————————————————————————————
 
-  <tspan x="30" y="120" class="value">
-    I'm currently studying Software Engineering, and during the course I've been able to work with different areas of development, but
-  </tspan>
+<tspan x="30" y="70" class="value">
+  I've always been interested in technology and understanding how things work.
+</tspan>
 
+<tspan x="30" y="90" class="value">
+  I enjoy learning new things, creating projects, and experimenting with different technologies.
+</tspan>
 
-  <tspan x="30" y="140" class="value">
-    front-end is definitely the area I enjoy the most.
-  </tspan>
+<tspan x="30" y="120" class="value">
+  I'm currently studying Software Engineering, where I've had the opportunity
+</tspan>
 
-  <tspan x="30" y="180" class="value">
-    I like creating interfaces, seeing the result of what I'm building and turning ideas into something that actually works.
-  </tspan>
+<tspan x="30" y="140" class="value">
+  to explore different areas of development, with front-end development
+</tspan>
 
-  <tspan x="30" y="220" class="value">
-    I'm still learning a lot and trying new things every day, and my goal is to keep improving my skills and eventually work with  
-  </tspan>
+<tspan x="30" y="160" class="value">
+  being the area I enjoy the most.
+</tspan>
 
-  <tspan x="30" y="240" class="value">
-    something I genuinely enjoy.
-  </tspan>
+<tspan x="30" y="180" class="value">
+  I enjoy creating interfaces, seeing my ideas come to life, and turning
+</tspan>
+
+<tspan x="30" y="200" class="value">
+  concepts into something that actually works.
+</tspan>
+
+<tspan x="30" y="220" class="value">
+  I'm constantly learning, experimenting, and improving my skills, with the
+</tspan>
+
+<tspan x="30" y="240" class="value">
+  goal of building a career in an area that I'm genuinely passionate about.
+</tspan>
+  
 </text>
 </svg>
