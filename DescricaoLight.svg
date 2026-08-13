@@ -56,7 +56,8 @@ text, tspan {white-space: pre;}
 
 </text>
   
-<text x="390" y="30" fill="#24292f">
+<text x="390" y="30" fill="#24292">
+  
 <tspan x="15" y="30">About Me</tspan> ———————————————————————————————————————————————————————————————————————————————————————————
 
 <tspan x="30" y="70" class="value">
